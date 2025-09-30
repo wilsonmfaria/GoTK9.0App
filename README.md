@@ -2,7 +2,7 @@
 
 Mocking de uma ferramenta de Backup em Go utilizando a biblioteca **[tk9.0](https://pkg.go.dev/modernc.org/tk9.0)** para construção de interfaces gráficas.
 
-Este projeto complementa o guia **Tk9.0 em Go**, trazendo um exemplo completo com:
+Este projeto complementa o guia **[Tk9.0 em Go](https://github.com/wilsonmfaria/GoTK9.0App/blob/main/GuiaTK9.0.pdf)**, trazendo um exemplo completo com:
 - **Concorrência com goroutines e channels**
 - **Atualização de UI com `NewTicker`**
 - **Barras de progresso (`Progressbar`) personalizadas**
